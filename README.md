@@ -1,6 +1,7 @@
 ### Hi! My name is Vinay!
 - 🔭 I’m currently working on an App to display Spurious Correlations
 - 🌱 I’m currently learning Python libraries such as Pandas
+- ✔️ Check out my music web-app project! www.music.vinaycloud.ca
 - 🤔 I’m looking for help with Resume Reviews
 - ⚡ Fun fact: I play piano!
 
