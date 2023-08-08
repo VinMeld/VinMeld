@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Vinay
+# 👋 Hello, I'm Vinay
 
 🎓 **Studying**: I'm a 4th-year Computer Science student at Carleton University, Ottawa.
 
