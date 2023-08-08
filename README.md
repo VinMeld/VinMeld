@@ -1,17 +1,15 @@
-### Hi! My name is Vinay!
-- 🔭 I’m currently working on an App to display Spurious Correlations
-- 🌱 I’m currently learning Python libraries such as Pandas
-- ✔️ Check out my music web-app project! [Music App](www.music.vinaycloud.ca)
-- 🤔 I’m looking for help with Resume Reviews
-- ⚡ Fun fact: I play piano!
+### 👋 Hello, I'm Vinay
 
-<!--
-**VinMeld/VinMeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Studying**: I'm a 4th-year Computer Science student at Carleton University, Ottawa.
 
-Here are some ideas to get you started:
+💼 **Working**: Currently diving deep into technology at Nokia.
 
-- 🔭 I’m currently working on an App to display Spurious Correlations
-- 🌱 I’m currently learning Python libraries such as Pandas
-- 🤔 I’m looking for help with Resume Reviews
-- ⚡ Fun fact: I play piano!
--->
+🌐 **Interests**: I'm particularly passionate about web development. Exploring new technologies and optimizing web experiences really keeps me ticking.
+
+🎹 **Outside Coding**: When I'm not in front of a computer screen, you can probably find me by a piano. Playing the piano is my way of harmonizing life.
+
+🔗 **Connect**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/VinMeld)!
+
+🛠 **Languages and Tools**:
+
+`HTML` `CSS` `TaildwindCSS` `JavaScript` `Python` `React` `Node.js` `Next.js` `Bash` 
