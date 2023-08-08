@@ -9,7 +9,7 @@
   
   🎹 **Outside Coding**: When I'm not in front of a computer screen, you can probably find me by a piano. Playing the piano is my way of harmonizing life.<br>
   
-  🔗 **Connect**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/VinMeld)!<br>
+  🔗 **Connect**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vinay-m-741884180/)!<br>
 </p>
 
 🛠 **Languages and Tools**:
