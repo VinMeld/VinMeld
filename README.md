@@ -11,7 +11,7 @@
   
   🖥 **Portfolio**: Check out my work and projects on my [Website](https://portfolio.vinaycloud.ca)!.<br>
   
-  🔗 **Connect**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vinay-m-741884180/)!<br>
+  🔗 **Connect**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vinay-meld/)!<br>
 </p>
 
 🛠 **Languages and Tools**:
