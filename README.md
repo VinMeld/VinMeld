@@ -1,11 +1,9 @@
 <p align="center">
   <h1>👋 Hello, I'm Vinay</h1>
+    
+  💼 **Working**: 2 YOE, currently diving deep into technology at Cisco.<br>
   
-  🎓 **Studying**: I'm a 4th-year Computer Science student at Carleton University, Ottawa.<br>
-  
-  💼 **Working**: Currently diving deep into technology at Nokia.<br>
-  
-  🌐 **Interests**: I'm particularly passionate about web development. Exploring new technologies and optimizing web experiences really keeps me ticking.<br>
+  🌐 **Interests**: I'm particularly passionate about backend development. Exploring new technologies and optimizing web experiences really keeps me ticking.<br>
   
   🎹 **Outside Coding**: You can probably find me by a piano when I'm not in front of a computer screen. Playing the piano is my way of harmonizing life.<br>
   
