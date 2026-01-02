@@ -1,41 +1,27 @@
 <p align="center">
-  <h1>👋 Hello, I'm Vinay</h1>
-    
-  💼 **Working**: 2 YOE, currently diving deep into technology at Cisco.<br>
   
-  🌐 **Interests**: I'm particularly passionate about system development.<br>
-  My current homelab infrastrucrture featuring 
-  - 3 tiered autoamted backup
+  ## Vinay Meldrum
+
+  Software engineer working on systems and networking software at Cisco.
+  
+  ## Infrastructure Context
+
+  Personal production-style infrastructure used to deploy, operate, and validate backend services.
+
   - Multi-node containerized services with reverse proxying and internal DNS
-  - Network segmentation between public ingress and internal services
-  - Easy testbed for deploying and operating my own backend services
+  - Network segmentation between public ingress, VPS, and internal services
+  - Encrypted ZFS storage with automated multi-tier backups (local + offsite)
+  - Used as an operational testbed for backend services and deployment workflows
   <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/3df6f017-914e-4053-b352-5bdaa778d237" />
   
-  🖥 **Portfolio**: Check out my work and projects on my [Website](https://portfolio.vinaymeldrum.ca)!.<br>
-  
-  🔗 **Connect**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vinay-meld/)!<br>
-</p>
+## Technical Focus
 
+- Languages: Go, Python, C
+- Systems: Linux, networking, containers
+- Datastores: PostgreSQL, object storage
+- Cloud: AWS (hands-on deployment and operations)
 
-🛠 **Languages and Tools**:
+## Links
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-<img align="left" alt="Next.JS" width="30px" style="padding-right:10px;" src="./nextJS.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-
-
+- Portfolio: https://portfolio.vinaymeldrum.ca
+- LinkedIn: https://www.linkedin.com/in/vinay-meld/
