@@ -3,14 +3,17 @@
     
   💼 **Working**: 2 YOE, currently diving deep into technology at Cisco.<br>
   
-  🌐 **Interests**: I'm particularly passionate about backend development. Exploring new technologies and optimizing web experiences really keeps me ticking.<br>
-  
+  🌐 **Interests**: I'm particularly passionate about system development.<br>
+  My current homelab infrastrucrture:
+  <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/3df6f017-914e-4053-b352-5bdaa778d237" />
+
   🎹 **Outside Coding**: You can probably find me by a piano when I'm not in front of a computer screen. Playing the piano is my way of harmonizing life.<br>
   
   🖥 **Portfolio**: Check out my work and projects on my [Website](https://portfolio.vinaymeldrum.ca)!.<br>
   
   🔗 **Connect**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vinay-meld/)!<br>
 </p>
+
 
 🛠 **Languages and Tools**:
 
